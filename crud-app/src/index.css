@@ -1,0 +1,28 @@
+form {
+    background: white;
+    border: 1px solid #dedede;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-around; */
+    margin: 0 auto;
+    max-width: 500px;
+    padding: 30px 50px;
+  }
+  .feedb{
+    text-align: center;
+    
+  }
+ 
+  .bg{
+    background-image:url(https://t4.ftcdn.net/jpg/04/04/98/03/240_F_404980314_i9LxmP1AHOAvvXBOwM8lMvePJjog7BYf.jpg);
+  }
+ 
+ 
+ .btn:hover{
+  background-color:silver;
+ }
+ 
+  .radiobtn{
+    margin-right:25px;
+  }
+ 
